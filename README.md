@@ -62,7 +62,7 @@ Smart Logistics Matching: The route-optimization module clubs orders from nearby
 Secure Transactions: Smart-contract or escrow-based payment gateway ensures instantaneous payouts to farmers upon delivery confirmation.
 
 [Diagram Description for Submission]:
-"C:\Users\acer\Downloads\sih.jpeg"
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/b563c3b6-69e9-41d0-91dd-b8ba5b74cf5b" />
 
 ## Feasibility and Viability
 3. Feasibility and Viability Analysis of the feasibility of the idea:
